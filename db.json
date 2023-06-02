@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arun",
+      "username": "Arun",
+      "email": "arun@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Amit",
+      "username": "Amit",
+      "email": "amit@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Basu",
+      "username": "Basu",
+      "email": "basu@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Naganna",
+      "username": "naganna",
+      "email": "Naganna@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Kartik",
+      "username": "Kartik",
+      "email": "kartik@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Arya",
+      "username": "Arya",
+      "email": "arya@gmail.com"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Fist blog post",
+      "body": "Fist blog post",
+      "userId": "1",
+      "id": 1
+    },
+    {
+      "title": "Second blog post",
+      "body": "Second blog post",
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "Third blog post",
+      "body": "Third blog post",
+      "userId": "3",
+      "id": 3
+    },
+    {
+      "title": "Fourth blog post",
+      "body": "Fourth blog post",
+      "userId": "4",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
